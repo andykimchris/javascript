@@ -1,0 +1,17 @@
+
+h1,h2, h3 {
+  color: blue;
+  font-family: Arial;
+  font-size: 54px;  
+  font-weight: 800;
+}
+
+p {
+  color: purple;
+  font-size: 34px;
+}
+
+li {
+  text-decoration: none;
+  font-style: italic;
+}
